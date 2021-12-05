@@ -1,7 +1,9 @@
 
-![shawn snake gif](/images/github-user-contribution.svg)
+![Chance snake gif](/images/github-user-contribution.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chancei0i&theme=dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chancei0i&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
