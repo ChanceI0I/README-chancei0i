@@ -1,3 +1,6 @@
+
+![Chance snake gif](/images/github-user-contribution.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chancei0i&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
