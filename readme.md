@@ -10,4 +10,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chancei0i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Chance snake gif](/images/github-user-contribution.svg)
